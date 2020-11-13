@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi There 👋
+
+Hey! I'm a self taught JavaScript & Python Developer. I make things people want or need.
+
 If I can be of assistance, please do not hesitate to contact me. 
 <!--
 **ax-sh/ax-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
