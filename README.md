@@ -1,12 +1,12 @@
 # Hi There 👋
 
-### I'm a self taught JavaScript & Python Developer. I make things people want or need.
+### I'm a self taught JavaScript & Python Developer and I like to make things people want or need.
 
  
 <!--
 
 **ax-sh/ax-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+I've got experience with frameworks like React, TailwindCSS, Flask and few others that I enjoy.
 Here are some ideas to get you started:
 I like to work on interesting projects and solve problems people are facing, and have also created a few other projects on my github. 
 - 🔭 I’m currently working on ...
@@ -23,4 +23,6 @@ I am a UI/UX Designer & Full Stack Developer (mostly in Python & JavaScript) wit
 
 When i do my designs I try to design my work based on the aesthetics, usability and simplicity.
 
-I am available for hire. If I can be of assistance, please do not hesitate to contact me. I've got experience with frameworks like React, TailwindCSS, Flask and few others that I enjoy. If you've got a project in mind, feel free to contact me. 
+I am available for hire. If I can be of assistance, please do not hesitate to contact me. 
+
+If you've got a project in mind, feel free to contact me. 
