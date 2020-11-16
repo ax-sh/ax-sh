@@ -1,6 +1,6 @@
-## Hi There 👋
+# Hi There 👋
 
-# Hey! I'm a self taught JavaScript & Python Developer. I make things people want or need.
+### Hey! I'm a self taught JavaScript & Python Developer. I make things people want or need.
 
  
 <!--
@@ -17,15 +17,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ....
 -->
 
  
-    I am a UI/UX Designer & Full Stack Developer (mostly in Python & JavaScript). 
-    I've got experience with Python & React, and have also worked on a couple of Flask, Express projects.
-    I like to work on interesting computer projects all the time, and have also created a few other projects on my github.
+    I am a UI/UX Designer & Full Stack Developer (mostly in Python & JavaScript). I've got experience with Python & React, and have also worked on a couple of Flask, Express projects. I like to work on interesting computer projects all the time, and have also created a few other projects on my github. I try to design my work based on the aesthetics, usability and simplicity.
 
-    I try to design my work based on the aesthetics, usability and simplicity.
-
-    I am available for hire. I've got experience with frameworks like React, TailwindCSS, Flask and few others that I enjoy. 
-    If you've got a project in mind, feel free to contact me via email (at the bottom).
+I am available for hire. I've got experience with frameworks like React, TailwindCSS, Flask and few others that I enjoy. If you've got a project in mind, feel free to contact me. 
