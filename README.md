@@ -28,4 +28,6 @@ I am available for hire. If I can be of assistance, please do not hesitate to co
 If you've got a project in mind, feel free to contact me. 
 
 
+---
+
 Place where i do some of my experiments -> https://codesandbox.io/u/ax-sh
