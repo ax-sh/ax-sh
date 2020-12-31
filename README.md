@@ -19,7 +19,7 @@ I like to work on interesting projects and solve problems people are facing, and
 - ⚡ Fun fact: ....
 -->
 
-I am a UI/UX Designer & Full Stack Developer (mostly in Python & JavaScript) with experience with Python scripts, React, and other frameworks for fast and efficient software development, and have also worked on a couple of Flask, Express and orher interesting projects here on github. 
+I am a UI/UX Designer & Full Stack Developer (mostly in Python & JavaScript) with experience with Python scripts, React, and other frameworks for fast and efficient software development, and have also worked on a couple of Flask, Express and orher interesting projects here on my github. 
 
 When i do my designs I try to design my work based on the aesthetics, usability and simplicity.
 
