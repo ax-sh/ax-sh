@@ -1,10 +1,9 @@
 # Hi There 👋
 
-### I'm a self taught JavaScript & Python Developer and I like to make things people want or need.
+### I'm a JavaScript & Python Developer and I like to make things people want or need.
 
- 
 <!--
-
+self taught
 **ax-sh/ax-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I've got experience with frameworks like React, TailwindCSS, Flask and few others that I enjoy.
 Here are some ideas to get you started:
@@ -30,4 +29,6 @@ If you've got a project in mind, feel free to contact me.
 
 ---
 
-Place where i do some of my experiments -> https://codesandbox.io/u/ax-sh
+Place where i do some of my experiments
+ https://codesandbox.io/u/ax-sh
+ https://codepen.io/ax-sh/
