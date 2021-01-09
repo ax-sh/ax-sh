@@ -1,6 +1,6 @@
 # Hi There 👋
 
-### I'm a JavaScript & Python Developer and I like to make things people want or need.
+### I'm a JavaScript & Python Developer. I like making things people want or need.
 
 <!--
 self taught
