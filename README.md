@@ -33,6 +33,9 @@ Currently learning machine learning.
 ---
 
 Place where i do some of my experiments
+
  https://codesandbox.io/u/ax-sh
  
  https://codepen.io/ax-sh/
+ 
+ ![](https://komarev.com/ghpvc/?username=ax-sh)
