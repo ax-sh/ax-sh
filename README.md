@@ -1,7 +1,10 @@
 # Hi There 👋
 
 ### I'm a JavaScript & Python Developer. I like making things people want or need.
-
+<a href="https://github.com/ax-sh">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ax-sh&show_icons=true&theme=merko&count_private=true" alt="AX-SH's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ax-sh&theme=merko&layout=compact" alt="AX-SH's github top languages" />
+</a>
 <!--
 self taught
 **ax-sh/ax-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
