@@ -1,6 +1,7 @@
-# Hi There 👋
+# Hello Axmin here 👋
 
-### I'm a JavaScript & Python Developer. I like making things people want or need.
+### I'm a Software Engineer(JavaScript & Python), and a life long learner. 
+### I like making things people want or need.
 <a href="https://github.com/ax-sh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ax-sh&show_icons=true&theme=merko&count_private=true" alt="AX-SH's github stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ax-sh&theme=merko&layout=compact" alt="AX-SH's github top languages" />
@@ -21,8 +22,8 @@ I like to work on interesting projects and solve problems people are facing, and
 - ⚡ Fun fact: ....
 -->
 
-I am a UI/UX Designer & Full Stack Developer (mostly in Python & JavaScript).
-I have experience with Python scripts, React, and other frameworks for fast and efficient software development, and have also worked on a couple of Flask, Express and other interesting projects here on my github. 
+I am Full-Stack Developer with good knowledge and understanding of UI/UX 
+I have experience with Python, Automation scripts, React/Nextjs, and other frameworks for fast and efficient web/app development, and have also worked on a couple of Flask, Express and other interesting projects here on my github. 
 
 I design my work based on the aesthetics, usability and simplicity.
 
