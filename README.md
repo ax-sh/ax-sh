@@ -1,7 +1,13 @@
-# Hello Axmin here 👋
+# Hey Axmin here 👋 
 
-### I'm a Software Engineer(JavaScript & Python), and a life long learner. 
-### I like making things people want or need.
+- Web Developer specializing in asethetics, simplicity and utility
+- Graphics designer with asethetics in mind
+- Software Engineer by trade
+- Technoholic and a life long learner by nature
+### 
+- I like making things people want, need, or desire.
+
+
 <a href="https://github.com/ax-sh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ax-sh&show_icons=true&theme=merko&count_private=true" alt="AX-SH's github stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ax-sh&theme=merko&layout=compact" alt="AX-SH's github top languages" />
@@ -30,9 +36,10 @@ I design my work based on the aesthetics, usability and simplicity.
 I am available for hire. If I can be of assistance, please do not hesitate to contact me. 
 If you've got a project in mind, feel free to contact me. 
 
-Currently learning machine learning for computer vision tasks
+🌱 Currently learning machine learning for computer vision tasks 
+🔭 Currently working on 3d web interaction
 
-
+<!-- https://www.behance.net/axminshrestha -->
 ---
 
 Place where i do some of my experiments
