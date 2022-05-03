@@ -51,6 +51,7 @@ Speciality
 I am available for hire. If I can be of assistance or you've got a project in mind, feel free to contact me. 
 
 🌱 Currently learning machine learning for computer vision tasks 
+
 🔭 Currently working on 3d web interaction
 
 <!-- https://www.behance.net/axminshrestha -->
