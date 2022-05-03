@@ -29,12 +29,26 @@ I like to work on interesting projects and solve problems people are facing, and
 -->
 
 I am Full-Stack Developer with good knowledge and understanding of UI/UX 
-I have experience with Python, Automation scripts, React/Nextjs, and other frameworks for fast and efficient web/app development
 
-Besides App/Web/Software development I also do web/graphics design and other interesting projects here on my github/figma. 
-I design my work based on the aesthetics, usability and simplicity.
-I am available for hire. If I can be of assistance, please do not hesitate to contact me. 
-If you've got a project in mind, feel free to contact me. 
+Speciality 
+- Interactive web design
+- Automation scripts
+- Computer Vision
+- React/Nextjs/Nestjs
+- Threejs
+- D3
+- React hook forms
+- Tailwind
+- Gsap
+- react spring
+- HTML5/CSS3/JS/TS/SASS/JQuery
+- Python
+- OpenCV
+- Pandas
+- FastAPI
+- Other frameworks for fast and efficient web/app development
+
+I am available for hire. If I can be of assistance or you've got a project in mind, feel free to contact me. 
 
 🌱 Currently learning machine learning for computer vision tasks 
 🔭 Currently working on 3d web interaction
