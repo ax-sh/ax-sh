@@ -1,11 +1,15 @@
 # Hey Axmin here 👋 
 
-- Web Developer specializing in aesthetics, simplicity and utility
-- Graphics designer with asethetics in mind
-- Software Engineer by trade
-- Technoholic and a life long learner by nature
-### 
-- I like making things people want, need, or desire.
+
+- An expert in aesthetics, simplicity, and utility
+- Graphics designer with aesthetics in mind
+- Originally a software engineer, who loves technology and is a lifelong learner
+- Interested in making things that people want, need, or desire
+
+
+<!-- - Software Engineer by trade -->
+<!-- - Technoholic and a life long learner by nature -->
+
 
 
 <a href="https://github.com/ax-sh">
@@ -29,7 +33,7 @@ I like to work on interesting projects and solve problems people are facing, and
 -->
 
 I am Full-Stack Developer with good knowledge and understanding of UI/UX 
-
+<!-- Specialty -->
 ## Speciality 
 - Interactive web design
 - Automation scripts
@@ -38,7 +42,7 @@ I am Full-Stack Developer with good knowledge and understanding of UI/UX
 - Threejs
 - D3
 - React hook forms
-- Tailwind
+- Tailwind/Windicss
 - Gsap
 - react spring
 - HTML5/CSS3/JS/TS/SASS/JQuery
@@ -46,13 +50,13 @@ I am Full-Stack Developer with good knowledge and understanding of UI/UX
 - OpenCV
 - Pandas
 - FastAPI
+- NX
 - Other frameworks for fast and efficient web/app development
 
 # I am available for hire. If I can be of assistance or you've got a project in mind, feel free to contact me. 
 
-🌱 Currently learning machine learning for computer vision tasks 
-
-🔭 Currently working on 3d web interaction
+🌱 Aims to learn machine learning for computer vision activities
+🔭 At the moment, working on the 3D web interaction
 
 <!-- https://www.behance.net/axminshrestha -->
 ---
