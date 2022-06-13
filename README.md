@@ -32,7 +32,9 @@ I like to work on interesting projects and solve problems people are facing, and
 - ⚡ Fun fact: ....
 -->
 
-I am Full-Stack Developer with good knowledge and understanding of UI/UX 
+<!-- I am Full-Stack Developer with good knowledge and understanding of UI/UX  -->
+In addition to my Full-Stack Developer skills, I have good UX and UI knowledge.
+
 <!-- Specialty -->
 ## Speciality 
 - Interactive web design
