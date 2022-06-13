@@ -55,9 +55,10 @@ In addition to my Full-Stack Developer skills, I have good UX and UI knowledge.
 - NX
 - Other frameworks for fast and efficient web/app development
 
-# I am available for hire. If I can be of assistance or you've got a project in mind, feel free to contact me. 
+## I am available for hire. If I can be of assistance or you've got a project in mind, feel free to contact me. 
 
 🌱 Aims to learn machine learning for computer vision activities
+
 🔭 At the moment, working on the 3D web interaction
 
 <!-- https://www.behance.net/axminshrestha -->
