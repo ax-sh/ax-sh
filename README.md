@@ -30,7 +30,7 @@ I like to work on interesting projects and solve problems people are facing, and
 
 I am Full-Stack Developer with good knowledge and understanding of UI/UX 
 
-Speciality 
+## Speciality 
 - Interactive web design
 - Automation scripts
 - Computer Vision
