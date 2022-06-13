@@ -1,6 +1,6 @@
 # Hey Axmin here 👋 
 
-- Web Developer specializing in asethetics, simplicity and utility
+- Web Developer specializing in aesthetics, simplicity and utility
 - Graphics designer with asethetics in mind
 - Software Engineer by trade
 - Technoholic and a life long learner by nature
