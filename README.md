@@ -48,7 +48,7 @@ I am Full-Stack Developer with good knowledge and understanding of UI/UX
 - FastAPI
 - Other frameworks for fast and efficient web/app development
 
-I am available for hire. If I can be of assistance or you've got a project in mind, feel free to contact me. 
+# I am available for hire. If I can be of assistance or you've got a project in mind, feel free to contact me. 
 
 🌱 Currently learning machine learning for computer vision tasks 
 
@@ -57,7 +57,7 @@ I am available for hire. If I can be of assistance or you've got a project in mi
 <!-- https://www.behance.net/axminshrestha -->
 ---
 
-Place where i do some of my experiments
+## Place where i do some of my experiments
 
  https://codesandbox.io/u/ax-sh
  
