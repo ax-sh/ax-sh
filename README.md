@@ -13,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ax-sh&theme=merko&layout=compact" alt="AX-SH's github top languages" />
 </a>
 
-#About Me
+# About Me
 
 - Expert in aesthetics, simplicity, and utility
 - Graphics designer with aesthetics in mind
