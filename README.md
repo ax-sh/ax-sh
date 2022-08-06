@@ -1,10 +1,9 @@
 # Hey Axmin here 👋 
 
 
-
-
 <!-- - Software Engineer by trade -->
 <!-- - Technoholic and a life long learner by nature -->
+<!-- - Originally a software engineer, who loves technology and is a lifelong learner-->
 
 
 
@@ -17,7 +16,7 @@
 
 - Expert in aesthetics, simplicity, and utility
 - Graphics designer with aesthetics in mind
-- Originally a software engineer, who loves technology and is a lifelong learner
+- Creative Web Developer, who loves technology and a lifelong learner
 - Interested in making things that people want, need, or desire
 
 <!--
@@ -37,42 +36,49 @@ I like to work on interesting projects and solve problems people are facing, and
 -->
 
 <!-- I am Full-Stack Developer with good knowledge and understanding of UI/UX  -->
-In addition to my Full-Stack Developer skills, I have good UX and UI knowledge.
+In addition to my Web Development skills, I also have good UX and UI knowledge.
 
 <!-- Specialty -->
 ## Speciality 
+
 - Interactive web design
-- Automation scripts
-- Computer Vision
-- React/Nextjs/Nestjs
+- Responsive Design
+- HTML5/CSS3/JS/TS/SASS/JQuery
+- React/Nextjs <!--/Nestjs-->
 - Threejs
 - D3
-- React hook forms
+- React Hook Forms/Zod
 - Tailwind/Windicss
 - Gsap
-- react spring
-- HTML5/CSS3/JS/TS/SASS/JQuery
-- Python
-- OpenCV
-- Pandas
-- FastAPI
+- React-Spring
+- Automation scripts 
+
+
+
 - NX
 - Other frameworks for fast and efficient web/app development
 
-## I am available for hire. If I can be of assistance or you've got a project in mind, feel free to contact me. 
+<!-- Computer Vision
+- Python
+- OpenCV
+- Pandas
 
-🌱 Aims to learn machine learning for computer vision activities
+ - FastAPI -->
+
+## I am available for hire. If you've got a project in mind, feel free to contact me. 
+
+<!--🌱 Aims to learn machine learning for computer vision activities -->
 
 🔭 At the moment, working on the 3D web interaction
 
 <!-- https://www.behance.net/axminshrestha -->
 ---
 
-## Place where i do some of my experiments
+## Place where I host my experiments
 
- https://codesandbox.io/u/ax-sh
+ [CODESANDBOX](https://codesandbox.io/u/ax-sh)
  
- https://codepen.io/ax-sh/
+ [CODEPEN](https://codepen.io/ax-sh/)
  
  ![](https://komarev.com/ghpvc/?username=ax-sh)
  
