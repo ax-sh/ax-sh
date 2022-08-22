@@ -17,7 +17,7 @@
 - Expert in aesthetics, simplicity, and utility
 - Graphics designer with aesthetics in mind
 - Creative Web Developer, who loves technology and a lifelong learner
-- Interested in making things that people want, need, or desire
+- Interested in making things that people want, need, or require
 
 <!--
 self taught
@@ -45,8 +45,8 @@ In addition to my Web Development skills, I also have good UX and UI knowledge.
 - Responsive Design
 - HTML5/CSS3/JS/TS/SASS/JQuery
 - React/Nextjs <!--/Nestjs-->
-- Threejs
-- D3
+- Three.js
+- D3.js
 - React Hook Forms/Zod
 - Tailwind/Windicss
 - Gsap
@@ -55,7 +55,7 @@ In addition to my Web Development skills, I also have good UX and UI knowledge.
 
 
 
-- NX
+<!-- - NX -->
 - Other frameworks for fast and efficient web/app development
 
 <!-- Computer Vision
