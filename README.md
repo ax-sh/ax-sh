@@ -92,6 +92,7 @@ In addition to my Web Development skills, I also have good UX and UI knowledge.
 <h3 align="left">Proficient In:</h3>
 <p style="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="40" height="40" />
+   <img src="/icons/threedotjs.svg"  width="40" height="40" />
 </p>
 
 
