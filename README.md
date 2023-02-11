@@ -119,4 +119,5 @@ In addition to my Web Development skills, I also have good UX and UI knowledge.
           
 <h3>Find me on</h3>
 
-<a href="https://www.linkedin.com/in/axmin/"  target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" /></a>
+<a href="https://www.linkedin.com/in/axmin/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" /></a>
+<a href="https://app.uxcel.com/ux/axmin" target="_blank" rel="noreferrer">UXCEL</a>
