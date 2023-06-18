@@ -121,5 +121,5 @@ In addition to my Web Development skills, I also have good UX and UI knowledge.
 <a href="https://twitter.com/ax___sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="axmin shrestha twitter" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/axmin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Axmin Shrestha linkedin" height="30" width="40" /></a>
 <a href="https://app.uxcel.com/ux/axmin" target="blank"><img align="center" src="/icons/uxcel.png" alt="Axmin Shrestha uxcel" height="40" width="40" /></a>
-<a href="[https://app.uxcel.com/ux/axmin](https://www.upwork.com/freelancers/~01d68212e5c7f238fd)" target="blank"><img align="center" src="/icons/upwork-color.svg" alt="Axmin Shrestha upwork" height="40" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/~01d68212e5c7f238fd" target="blank"><img align="center" src="/icons/upwork-color.svg" alt="Axmin Shrestha upwork" height="40" width="40" /></a>
 </p>
