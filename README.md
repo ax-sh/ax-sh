@@ -116,12 +116,16 @@ In addition to my Web Development skills, I also have good UX and UI knowledge.
  ## I am available for hire. If you've got a project in mind, feel free to contact me. 
  
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/axsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nijar" height="30" width="40" /></a>
-<a href="https://twitter.com/ax___sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="axmin shrestha twitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/axmin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Axmin Shrestha linkedin" height="30" width="40" /></a>
-<a href="https://app.uxcel.com/ux/axmin" target="blank"><img align="center" src="/icons/uxcel.png" alt="Axmin Shrestha uxcel" height="40" width="40" /></a>
-<a href="https://www.upwork.com/freelancers/~01d68212e5c7f238fd" target="blank"><img align="center" src="/icons/upwork-color.svg" alt="Axmin Shrestha upwork" height="40" width="40" /></a>
-  <a href="https://calendly.com/ax-sh" target="blank">calendy</a>
-  
+  <p align="left">
+  <a href="https://dev.to/axsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nijar" height="30" width="40" /></a>
+  <a href="https://twitter.com/ax___sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="axmin shrestha twitter" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/axmin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Axmin Shrestha linkedin" height="30" width="40" /></a>
+  <a href="https://app.uxcel.com/ux/axmin" target="blank"><img align="center" src="/icons/uxcel.png" alt="Axmin Shrestha uxcel" height="40" width="40" /></a>
+  <a href="https://www.upwork.com/freelancers/~01d68212e5c7f238fd" target="blank"><img align="center" src="/icons/upwork-color.svg" alt="Axmin Shrestha upwork" height="40" width="40" /></a>
+  <a href="https://calendly.com/ax-sh" target="blank"> <img align="center" src="/icons/Calendly.svg" alt="Axmin Shrestha Calendly" height="40" width="40" /></a>
 </p>
+
+<a href="https://www.buymeacoffee.com/axsh"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=axsh&button_colour=BD5FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
+
+  <a href="[https://linkedin.com/in/axmin/](https://www.buymeacoffee.com/axsh)" target="blank"><img align="center" src="/icons/ax-sh_qr.png" alt="Axmin Shrestha linkedin" height="200" width="200" />
