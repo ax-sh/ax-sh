@@ -74,8 +74,10 @@ In addition to my Web Development skills, I also have good UX and UI knowledge.
 
 ## Place where I host my experiments
 
- [<img src="/icons/codesandbox.svg"  width="40" height="40" /> CODESANDBOX](https://codesandbox.io/u/ax-sh)
- [<img src="/icons/codepen.svg"  width="40" height="40" /> CODEPEN](https://codepen.io/ax-sh/)
+ [<img src="/icons/codesandbox.svg"  width="40" height="40" />](https://codesandbox.io/u/ax-sh)
+ [<img src="/icons/codepen.svg"  width="40" height="40" />](https://codepen.io/ax-sh/)
+
+ 
  ![](https://komarev.com/ghpvc/?username=ax-sh)
  
  ![](https://bit.ly/3i1g9F4)
