@@ -43,12 +43,16 @@ In addition to my Web Development skills, I also have good UX and UI knowledge.
 
 - Interactive web design
 - Responsive Design
+- SPA
 - HTML5/CSS3/JS/TS/SASS/JQuery
 - React/Nextjs <!--/Nestjs-->
+- React Query
 - Three.js
 - D3.js
 - React Hook Forms/Zod
-- Tailwind/Windicss
+- Tailwind
+- Jest/Vitest
+- React Testing Library
 - Gsap
 - React-Spring
 - Automation scripts 
