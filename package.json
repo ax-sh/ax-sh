@@ -1,15 +1,19 @@
 {
-  "name": "ax-sh",
-  "module": "index.ts",
-  "type": "module",
-  "devDependencies": {
-    "@trivago/prettier-plugin-sort-imports": "^4.3.0",
-    "@types/bun": "latest",
-    "prettier": "^3.3.0",
-    "pretty-quick": "^4.0.0"
-  },
-  "peerDependencies": {
-    "typescript": "^5.0.0"
-  },
-  "scripts": {"pretty":"pretty-quick"}
+	"name": "ax-sh",
+	"module": "index.ts",
+	"type": "module",
+	"devDependencies": {
+		"@biomejs/biome": "^1.7.3",
+		"@trivago/prettier-plugin-sort-imports": "^4.3.0",
+		"@types/bun": "latest",
+		"prettier": "^3.3.0",
+		"pretty-quick": "^4.0.0"
+	},
+	"peerDependencies": {
+		"typescript": "^5.0.0"
+	},
+	"scripts": {
+		"pretty": "pretty-quick",
+		"format": "nlx @biomejs/biome format --write ./"
+	}
 }
