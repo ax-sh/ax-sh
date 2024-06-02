@@ -2,7 +2,7 @@
 
 
 <!-- - Software Engineer by trade -->
-<!-- - Technoholic and a life long learner by nature -->
+<!-- - Technoholic and a lifelong learner by nature -->
 <!-- - Originally a software engineer, who loves technology and is a lifelong learner-->
 
 
@@ -20,11 +20,11 @@
 - Interested in making things that people want, need, or require
 
 <!--
-self taught
+self-taught
 **ax-sh/ax-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I've got experience with frameworks like React, TailwindCSS, Flask and few others that I enjoy.
+I've got experience with frameworks like React, TailwindCSS, Flask, and a few others that I enjoy.
 Here are some ideas to get you started:
-I like to work on interesting projects and solve problems people are facing, and have also created a few other projects on my github. 
+I like to work on interesting projects and solve problems people are facing and I have also created a few other projects on my GitHub. 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -35,7 +35,7 @@ I like to work on interesting projects and solve problems people are facing, and
 - ⚡ Fun fact: ....
 -->
 
-<!-- I am Full-Stack Developer with good knowledge and understanding of UI/UX  -->
+<!-- I am a Full-Stack Developer with good knowledge and understanding of UI/UX  -->
 In addition to my Web Development skills, I also have good UX and UI knowledge.
 
 <!-- Specialty -->
@@ -95,6 +95,9 @@ In addition to my Web Development skills, I also have good UX and UI knowledge.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg"  width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg"  width="40" height="40" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"  width="40" height="40" />
+
+<img src="./icons/drizzle-color.svg" width="40" height="40"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"  width="40" height="40" />
@@ -102,6 +105,7 @@ In addition to my Web Development skills, I also have good UX and UI knowledge.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"  width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg"  width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/>
+
 </p>
 
 <h3 align="left">Proficient In:</h3>
