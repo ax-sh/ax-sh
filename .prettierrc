@@ -1,0 +1,18 @@
+{
+"printWidth": 100,
+"tabWidth": 2,
+"singleQuote": true,
+"semi": true,
+"jsxSingleQuote": true,
+"quoteProps": "as-needed",
+"trailingComma": "none",
+"bracketSpacing": true,
+"bracketSameLine": false,
+
+"plugins": ["@trivago/prettier-plugin-sort-imports"],
+"importOrderSeparation": true,
+"importOrderSortSpecifiers": true,
+
+"importOrder": ["<THIRD_PARTY_MODULES>", "^@core/(.*)$", "^@app/(.*)$", "^icon(.*)", "^[./]"],
+    "endOfLine": "lf"
+    }

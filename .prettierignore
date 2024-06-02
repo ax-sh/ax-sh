@@ -1,0 +1,15 @@
+public
+node_modules
+build
+dist
+
+CHANGELOG.md
+auto-imports.d.ts
+
+pnpm-lock.yaml
+coverage
+
+.DS_Store
+bun.lockb
+.idea
+.vscode
