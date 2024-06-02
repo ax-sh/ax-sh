@@ -1,11 +1,8 @@
-# Hey Axmin here 👋 
-
+# Hey Axmin here 👋
 
 <!-- - Software Engineer by trade -->
 <!-- - Technoholic and a lifelong learner by nature -->
 <!-- - Originally a software engineer, who loves technology and is a lifelong learner-->
-
-
 
 <a href="https://github.com/ax-sh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ax-sh&show_icons=true&theme=merko&count_private=true" alt="AX-SH's github stats" />
@@ -24,7 +21,7 @@ self-taught
 **ax-sh/ax-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I've got experience with frameworks like React, TailwindCSS, Flask, and a few others that I enjoy.
 Here are some ideas to get you started:
-I like to work on interesting projects and solve problems people are facing and I have also created a few other projects on my GitHub. 
+I like to work on interesting projects and solve problems people are facing and I have also created a few other projects on my GitHub.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -36,10 +33,12 @@ I like to work on interesting projects and solve problems people are facing and 
 -->
 
 <!-- I am a Full-Stack Developer with good knowledge and understanding of UI/UX  -->
+
 In addition to my Web Development skills, I also have good UX and UI knowledge.
 
 <!-- Specialty -->
-## Speciality 
+
+## Speciality
 
 - Interactive web design
 - Responsive Design
@@ -55,11 +54,10 @@ In addition to my Web Development skills, I also have good UX and UI knowledge.
 - React Testing Library
 - Gsap
 - React-Spring
-- Automation scripts 
-
-
+- Automation scripts
 
 <!-- - NX -->
+
 - Other frameworks for fast and efficient web/app development
 
 <!-- Computer Vision
@@ -73,19 +71,16 @@ In addition to my Web Development skills, I also have good UX and UI knowledge.
 
 🔭 At the moment, working on the 3D web interaction
 
-<!-- https://www.behance.net/axminshrestha -->
----
+## <!-- https://www.behance.net/axminshrestha -->
 
 ## Place where I host my experiments
 
- [<img src="/icons/codesandbox.svg"  width="40" height="40"/>](https://codesandbox.io/u/ax-sh)
- [<img src="/icons/codepen.svg"  width="40" height="40" />](https://codepen.io/ax-sh/)
+[<img src="/icons/codesandbox.svg"  width="40" height="40"/>](https://codesandbox.io/u/ax-sh)
+[<img src="/icons/codepen.svg"  width="40" height="40" />](https://codepen.io/ax-sh/)
 
- 
- ![](https://komarev.com/ghpvc/?username=ax-sh)
- 
- ![](https://bit.ly/3i1g9F4)
+![](https://komarev.com/ghpvc/?username=ax-sh)
 
+![](https://bit.ly/3i1g9F4)
 
 <h3 align="left">Main Stack:</h3>
 <p>
@@ -174,9 +169,7 @@ In addition to my Web Development skills, I also have good UX and UI knowledge.
 <p align="left"> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-
-
+  </a>
 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
@@ -195,7 +188,7 @@ In addition to my Web Development skills, I also have good UX and UI knowledge.
   </a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
+  </a>
 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
@@ -214,7 +207,7 @@ In addition to my Web Development skills, I also have good UX and UI knowledge.
   </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-</a> 
+</a>
 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
@@ -227,9 +220,10 @@ In addition to my Web Development skills, I also have good UX and UI knowledge.
   </a>
 </p>
 
-> [!NOTE]  
-> ## I am available for hire. If you've got a project in mind, feel free to contact me. 
- 
+> [!NOTE]
+>
+> ## I am available for hire. If you've got a project in mind, feel free to contact me.
+
 <h3 align="left">Connect with me:</h3>
   <p align="left">
   <a href="https://dev.to/axsh" target="blank">
