@@ -253,3 +253,7 @@ In addition to my Web Development skills, I also have good UX and UI knowledge.
 <p style="padding-top:16px">
 <a href="[https://linkedin.com/in/axmin/](https://www.buymeacoffee.com/axsh)" target="blank"><img align="center" src="/icons/ax-sh_qr.png" alt="Axmin Shrestha linkedin" height="200" width="200" />
 </p>
+
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/ax-sh/ax-sh/master/pattern.jpg');]{x0000}$}
