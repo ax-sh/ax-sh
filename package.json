@@ -1,20 +1,29 @@
 {
-	"name": "ax-sh",
-	"module": "index.ts",
-	"type": "module",
-	"devDependencies": {
-		"@biomejs/biome": "^1.7.3",
-		"@trivago/prettier-plugin-sort-imports": "^4.3.0",
-		"@types/bun": "latest",
-		"prettier": "^3.3.0",
-		"pretty-quick": "^4.0.0"
-	},
-	"peerDependencies": {
-		"typescript": "^5.0.0"
-	},
-	"scripts": {
-		"pretty": "pretty-quick",
-		"format": "nlx @biomejs/biome format --write ./",
-		"format:readme": "bun prettier --write README.md"
-	}
+  "name": "ax-sh",
+  "private": true,
+  "packageManager": "bun@1.2.2",
+  "devDependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^5.2.2",
+    "add": "^2.0.6",
+    "prettier": "^3.5.0",
+    "tsx": "^4.19.3",
+    "turbo": "^2.3.4"
+  },
+  "scripts": {
+    "dev": "turbo dev",
+    "serve": "turbo dev",
+    "s": "bun run ./apps/internal/src/index.tsx",
+    "lint": "turbo lint",
+    "format": "prettier --write .",
+    "clean": "turbo run clean && rm -rf node_modules",
+    "resume-html": "md2pdf --config-file md-config.js --as-html --port 4000 resume.md",
+    "resume": "md2pdf --config-file md-config.js  resume.md"
+  },
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "dependencies": {
+    "md-to-pdf": "^5.2.4"
+  }
 }

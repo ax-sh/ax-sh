@@ -1,0 +1,20 @@
+{
+  "name": "internal",
+  "version": "0.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "tsx src/index.tsx",
+    "serve": "bun run src/index.tsx",
+    "lint": "eslint src/ --max-warnings 0",
+    "clean": "rm -rf .turbo node_modules"
+  },
+  "devDependencies": {
+    "@repo/typescript-config": "workspace:*",
+    "@repo/eslint-config": "workspace:*"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
