@@ -226,7 +226,7 @@ In addition to my Web Development skills, I also have good UX and UI knowledge.
 <h3 align="left">Connect with me:</h3>
   <p align="left">
   <a href="https://dev.to/axsh" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nijar" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="axmin" height="30" width="40" />
   </a>
   <a href="https://twitter.com/ax___sh" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="axmin shrestha twitter" height="30" width="40" />
