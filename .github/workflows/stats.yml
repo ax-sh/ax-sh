@@ -1,6 +1,7 @@
 name: Update README cards
 
 # https://github.com/marketplace/actions/github-readme-stats-action
+# https://github.com/Othmane-ElAlami/GitHub-ReadMe-Stats?tab=readme-ov-file#all-demos
 on:
   push:
     branches:
