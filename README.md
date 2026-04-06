@@ -27,6 +27,58 @@
 
 ---
 
+## Speciality
+
+- Interactive web design
+- Responsive Design
+- SPA
+- HTML5/CSS3/JS/TS/SASS/JQuery
+- React/Nextjs <!--/Nestjs-->
+- React Query
+- Three.js
+- D3.js
+- React Hook Forms/Zod
+- Tailwind
+- Jest/Vitest
+- React Testing Library
+- Gsap
+- React-Spring
+- Automation scripts
+- Prompt Engineering
+
+### Main Stack:
+
+[//]: # (<a href="https://www.figma.com/" target="_blank" rel="noreferrer">)
+
+<p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"  width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40" />
+<img src="profile/icons/nextjs-original.svg"  width="40" height="40"/>
+<img src="profile/icons/vitest-original.svg"  width="40" height="40" />
+<img src="profile/icons/storybook-original.svg"  width="40" height="40" />
+<img src="profile/icons/drizzle-color.svg" width="40" height="40"/>
+<img src="profile/icons/zod-color.svg" width="40" height="40"/>
+<img src="profile/icons/zustand-original.svg" width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"  width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"  width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg"  width="40" height="40"/>
+
+<img src="profile/icons/figma-original.svg"  alt="Figma" width="40" height="40"/>
+</p>
+
+## Place where I host my Experiments
+
+[<img src="./profile/icons/codesandbox.svg"  width="40" height="40"/>](https://codesandbox.io/u/ax-sh)
+[<img src="./profile/icons/codepen.svg"  width="40" height="40" />](https://codepen.io/ax-sh/)
+
+---
+
 ## Donate
 
 <a href="https://github.com/ax-sh" style="text-decoration: none !important;" width="43" height="42">
