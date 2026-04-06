@@ -11,11 +11,9 @@
 
 ---
 
-<a href="https://github.com/ax-sh" style="text-decoration: none !important;"></a>
-
 <p>
-  <img height="180em" src="./profile/stats.svg" alt="AX-SH's github stats " />
-  <img height="180em" src="./profile/top-langs.svg" alt="AX-SH's github top languages" />
+  <img height="180rem" src="./profile/stats.svg" alt="AX-SH's github stats " />
+  <img height="180rem" src="./profile/top-langs.svg" alt="AX-SH's github top languages" />
 </p>
 
 # About Me
@@ -31,4 +29,10 @@
 
 ## Donate
 
-![AX-SH Stats](./profile/icons/ax-sh_qr.png)
+<a href="https://github.com/ax-sh" style="text-decoration: none !important;" width="43" height="42">
+
+</a>
+
+<img height="180rem" src="./profile/icons/ax-sh_qr.png" alt="AX-SH's github stats " />
+
+[//]: # (![AX-SH QR]&#40;./profile/icons/ax-sh_qr.png&#41;)
