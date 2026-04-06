@@ -16,8 +16,8 @@
 ---
 
 <p>
-  <img height="180rem" src="./public/repo-info/stats.svg" alt="AX-SH's github stats " />
-  <img height="180rem" src="./public/repo-info/top-langs.svg" alt="AX-SH's github top languages" />
+  <img height="180rem" src="./profile/stats.svg" alt="AX-SH's github stats " />
+  <img height="180rem" src="./profile/top-langs.svg" alt="AX-SH's github top languages" />
 </p>
 
 # About Me
@@ -56,29 +56,33 @@
 [//]: # (<a href="https://www.figma.com/" target="_blank" rel="noreferrer">)
 
 <p>
-<img src="src/icons/typescript-original.svg"  width="40" height="40" width="40" />
-<img src="src/icons/tailwindcss-original-wordmark.svg"  width="40" height="40" width="40" />
-<img src="src/icons/react-original-wordmark.svg" width="40" height="40" width="40" />
-<img src="src/icons/nextjs-original.svg"  width="40" height="40" width="40"/>
-<img src="src/icons/vitest-original.svg"  width="40" height="40" width="40" />
-<img src="src/icons/storybook-original.svg"  width="40" height="40" width="40" />
-<img src="src/icons/drizzle-color.svg" width="40" height="40" width="40"/>
-<img src="src/icons/zod-color.svg" width="40" height="40" width="40"/>
-<img src="src/icons/zustand-original.svg" width="40" height="40" width="40"/>
-<img src="src/icons/d3js-original.svg" width="40" height="40" width="40"/>
-<img src="src/icons/figma-original.svg"  alt="Figma" width="40" height="40" width="40"/>
-<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" />
-<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" />
-<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+<img alt="typescript"  src="src/icons/typescript-original.svg"    height="40" width="40" />
+<img alt="tailwind.css"  src="src/icons/tailwindcss-original-wordmark.svg"    height="40" width="40" />
+<img alt="react.js"  src="src/icons/react-original-wordmark.svg"   height="40" width="40" />
+<img alt="next.js"  src="src/icons/nextjs-original.svg"   height="40" width="40"/>
+<img alt="vitest"  src="src/icons/vitest-original.svg"    height="40" width="40" />
+<img alt="storybook"  src="src/icons/storybook-original.svg"    height="40" width="40" />
+
+<img alt="zod"  src="src/icons/zod-color.svg"   height="40" width="40"/>
+<img alt="zustand"  src="src/icons/zustand-original.svg"   height="40" width="40"/>
+<img alt="d3.js"  src="src/icons/d3js-original.svg"   height="40" width="40"/>
+<img alt="Figma"  src="src/icons/figma-original.svg"   height="40" width="40"/>
+
 <img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg" />
 <img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
-
-<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" />
 <img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/puppeteer/puppeteer-original.svg" />
-<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
 
 </p>
+
+## Database and API
+
+<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" />
+<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" />
+<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" />
+<img alt="" src="src/icons/drizzle-color.svg" height="40" width="40"/>
+<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
 
 ## Code quality
 
@@ -100,18 +104,23 @@
 
 <img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" />
 
+---
+
 ## Place where I host my Experiments
 
-[<img src="./src/icons/codesandbox.svg"  width="40" height="40" width="40"/>](https://codesandbox.io/u/ax-sh)
-[<img src="./src/icons/codepen.svg"  width="40" height="40" width="40" />](https://codepen.io/ax-sh/)
+<p style="background: white">
+[<img alt="codesandbox" src="./src/icons/codesandbox.svg" height="40" width="40"/>](https://codesandbox.io/u/ax-sh)
+[<img alt="codepen" src="./src/icons/codepen.svg" height="40" width="40" />](https://codepen.io/ax-sh/)
+</p>
 
 ---
 
 ## Donate
 
-<a href="https://github.com/ax-sh" style="text-decoration: none !important;" width="43" height="42">
-
+<!--
+<a href="https://github.com/ax-sh" style="text-decoration: none !important;">
 </a>
+-->
 
 <img height="180rem" src="src/icons/ax-sh_qr.png" alt="AX-SH's github stats " />
 
