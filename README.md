@@ -9,7 +9,7 @@
 -->
 
 <h1>
-  <img align="center" alt="hey" src="./profile/icons/animated-waving-hand-emoji.svg" width="48" height="48" />
+  <img align="center" alt="hey" src="./src/icons/animated-waving-hand-emoji.svg" width="48" height="48" />
   Hey There
 </h1>
 
