@@ -13,8 +13,8 @@
 ---
 
 <p>
-  <img height="180rem" src="./profile/repo-info/stats.svg" alt="AX-SH's github stats " />
-  <img height="180rem" src="./profile/repo-info/top-langs.svg" alt="AX-SH's github top languages" />
+  <img height="180rem" src="./public/repo-info/stats.svg" alt="AX-SH's github stats " />
+  <img height="180rem" src="./public/repo-info/top-langs.svg" alt="AX-SH's github top languages" />
 </p>
 
 # About Me
