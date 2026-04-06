@@ -58,7 +58,7 @@
 
 ### Connect with me:
 
-[<img alt="dev.to" style="padding:2px;background: white" src="./src/icons/codesandbox.svg" height="40" width="40"/>](https://dev.to/ax-sh)
+[<img alt="dev.to" style="padding:2px;background: white" src="./src/icons/devto.svg" height="40" width="40"/>](https://dev.to/ax-sh)
 [<img alt="Axmin Shrestha linkedin" style="padding:2px;background: white" src="./src/icons/linked-in-alt.svg" height="40" width="40" />](https://linkedin.com/in/axmin/)
 [<img alt="Axmin Shrestha Twitter" style="padding:2px;background: white" src="./src/icons/twitter.svg" height="40" width="40" />](https://twitter.com/ax___sh)
 [<img alt="Axmin Shrestha Uxcel" style="padding:2px;background: white" src="./src/icons/uxcel.png" height="40" width="40" />](https://app.uxcel.com/ux/axmin)
