@@ -24,4 +24,4 @@
 
 ---
 
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+[//]: # (![Pinned]&#40;./profile/pin-readme-tools-github-readme-stats.svg&#41;)
