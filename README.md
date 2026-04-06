@@ -141,10 +141,9 @@
 
 ## Place where I host my Experiments
 
-<p style="background: white">
-[<img alt="codesandbox" src="./src/icons/codesandbox.svg" height="40" width="40"/>](https://codesandbox.io/u/ax-sh)
-[<img alt="codepen" src="./src/icons/codepen.svg" height="40" width="40" />](https://codepen.io/ax-sh/)
-</p>
+
+[<img alt="codesandbox" style="padding:2px;background: white" src="./src/icons/codesandbox.svg" height="40" width="40"/>](https://codesandbox.io/u/ax-sh)
+[<img alt="codepen" style="padding:2px;background: white" src="./src/icons/codepen.svg" height="40" width="40" />](https://codepen.io/ax-sh/)
 
 ### Front-End:
 
