@@ -5,6 +5,7 @@
 <!--
   ![AX-SH Stats](./profile/stats.svg)
   ![Top Languages](./profile/top-langs.svg)
+[//]: # (![AX-SH QR]&#40;./profile/icons/ax-sh_qr.png&#41;)
 ->
 
 <h1>
@@ -66,46 +67,43 @@
 <img src="src/icons/zustand-original.svg" width="40" height="40"/>
 <img src="src/icons/d3js-original.svg" width="40" height="40"/>
 <img src="src/icons/figma-original.svg"  alt="Figma" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
+<img alt="" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" />
+<img alt="" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+<img alt="" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" />
+<img alt="" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+<img alt="" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg" />
+<img alt="" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/puppeteer/puppeteer-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+<img alt="" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" />
+<img alt="" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/puppeteer/puppeteer-original.svg" />
+<img alt="" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
 
 </p>
 
 ## Code quality
 
-<img src="src/icons/webstorm-original.svg" width="40" height="40"/>
-<img src="src/icons/jira-original-wordmark.svg" width="40" height="40"/>
-<img src="src/icons/codecov-plain.svg" width="40" height="40"/>
-<img src="src/icons/docker-original-wordmark.svg" width="40" height="40"/>
-<img src="src/icons/eslint-plain-wordmark.svg" width="40" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original-wordmark.svg" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original-wordmark.svg" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" />
+<img alt="" height="40" src="src/icons/webstorm-original.svg"  />
+<img alt="" height="40" src="src/icons/jira-original-wordmark.svg"  />
+<img alt="" height="40" src="src/icons/codecov-plain.svg"  />
+<img alt="" height="40" src="src/icons/docker-original-wordmark.svg"  />
+<img alt="" height="40" src="src/icons/eslint-plain-wordmark.svg"  />
+<img alt="" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original-wordmark.svg" />
+<img alt="" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original-wordmark.svg" />
+<img alt="" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" />
 
 ## Ai Stack
 
-<img src="src/icons/python-original-wordmark.svg"  width="40" height="40"/>
-<img src="src/icons/anaconda-original-wordmark.svg"  width="40" height="40"/>
-<img src="src/icons/jupyter-original-wordmark.svg"  width="40" height="40" />
-<img src="src/icons/streamlit-original.svg" width="40" height="40" />
+<img alt="" height="40" src="src/icons/python-original-wordmark.svg"  />
+<img alt="" height="40" src="src/icons/anaconda-original-wordmark.svg"   />
+<img alt="" height="40" src="src/icons/jupyter-original-wordmark.svg"    />
+<img alt="" height="40" src="src/icons/streamlit-original.svg" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" />
+<img alt="" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" />
 
 ## Place where I host my Experiments
 
-[<img src="./profile/icons/codesandbox.svg"  width="40" height="40"/>](https://codesandbox.io/u/ax-sh)
-[<img src="./profile/icons/codepen.svg"  width="40" height="40" />](https://codepen.io/ax-sh/)
+[<img src="./src/icons/codesandbox.svg"  width="40" height="40"/>](https://codesandbox.io/u/ax-sh)
+[<img src="./src/icons/codepen.svg"  width="40" height="40" />](https://codepen.io/ax-sh/)
 
 ---
 
@@ -117,9 +115,10 @@
 
 <img height="180rem" src="src/icons/ax-sh_qr.png" alt="AX-SH's github stats " />
 
-[//]: # (![AX-SH QR]&#40;./profile/icons/ax-sh_qr.png&#41;)
+
 
 ---
 
-| :---: | | <img align="center" src="./profile/icons/ax-sh_qr.png" width="24" />
-Centered Text |
+[//]: # (| :---: | | <img align="center" src="./profile/icons/ax-sh_qr.png" width="24" />)
+
+[//]: # (Centered Text |)
