@@ -75,6 +75,7 @@
 </p>
 
 ## Database and API
+
 <p>
 <img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
 <img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
@@ -84,8 +85,10 @@
 <img alt="" height="40" width="40" src="src/icons/drizzle-color.svg" />
 <img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
 </p>
+
 ## Code quality
 
+<p>
 <img alt="" height="40" width="40" src="src/icons/webstorm-original.svg"  />
 <img alt="" height="40" width="40" src="src/icons/jira-original-wordmark.svg"  />
 <img alt="" height="40" width="40" src="src/icons/codecov-plain.svg"  />
@@ -94,14 +97,17 @@
 <img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original-wordmark.svg" />
 <img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original-wordmark.svg" />
 <img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" />
+</p>
 
 ## Ai Stack
 
+<p>
 <img alt="" height="40" width="40" src="src/icons/python-original-wordmark.svg"  />
 <img alt="" height="40" width="40" src="src/icons/anaconda-original-wordmark.svg"   />
 <img alt="" height="40" width="40" src="src/icons/jupyter-original-wordmark.svg"    />
 <img alt="" height="40" width="40" src="src/icons/streamlit-original.svg" />
 <img alt="" height="40" width="40" src="src/icons/opencv-original-wordmark.svg" />
+</p>
 
 ### Proficient In:
 
