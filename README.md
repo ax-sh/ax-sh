@@ -1,5 +1,3 @@
-[//]: # (# 👋 Hey There)
-
 <!-- - Software Engineer by trade -->
 <!-- - Technoholic and a lifelong learner by nature -->
 <!-- - Originally a software engineer, who loves technology and is a lifelong learner-->
@@ -26,3 +24,9 @@
 - Creative Full-Stack Software Engineer, who loves technology and is a lifelong
   learner
 - Interested in making things that people want, need, or require
+
+---
+
+## Donate
+
+![AX-SH Stats](./profile/icons/ax-sh_qr.png)
