@@ -1,5 +1,16 @@
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-  <title>CodeSandbox</title><path
+  <title>CodeSandbox</title>
+  <style>
+  path {
+    fill: black; /* Default light mode */
+  }
+  @media (prefers-color-scheme: dark) {
+    path {
+      fill: white; /* Dark mode */
+    }
+  }
+  </style>
+  <path
     d="M0 24H24V0H0V2.45455H21.5455V21.5455H2.45455V0H0Z"
   />
 </svg>
