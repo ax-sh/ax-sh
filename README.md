@@ -11,10 +11,12 @@
 
 ---
 
-<a href="https://github.com/ax-sh" style="text-decoration: none !important;">
+<a href="https://github.com/ax-sh" style="text-decoration: none !important;"></a>
+
+<p>
   <img height="180em" src="./profile/stats.svg" alt="AX-SH's github stats " />
   <img height="180em" src="./profile/top-langs.svg" alt="AX-SH's github top languages" />
-</a>
+</p>
 
 # About Me
 
