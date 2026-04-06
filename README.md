@@ -1,5 +1,12 @@
-# Hey Axmin here 👋
-![Hey](./profile/icons/animated-waving-hand-emoji.svg)
+
+
+[//]: # (![Hey]&#40;./profile/icons/animated-waving-hand-emoji.svg&#41;)
+
+<h1 style="display: flex">
+    <img alt="hey" height="180em"  src="./profile/icons/animated-waving-hand-emoji.svg"/>
+    <span style="font-size: 2.2em;">👋</span>
+    <span style="background: linear-gradient(135deg, #6366f1, #a855f7, #ec4899); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin-left: 10px;">Hey There</span>
+</h1>
 
 <!-- - Software Engineer by trade -->
 <!-- - Technoholic and a lifelong learner by nature -->
@@ -11,11 +18,9 @@
 
 ---
 
-==highlight==
 
 
-[//]: # (https://github-readme-stats.vercel.app/api?username=ax-sh&show_icons=true&theme=merko&count_private=true)
-[//]: # (https://github-readme-stats.vercel.app/api/top-langs/?username=ax-sh&theme=merko&layout=compact&hide=html,mdx,jupyter%20notebook)
+
 <a href="https://github.com/ax-sh" style="text-decoration:none !important;">
   <img height="180em" src="./profile/stats.svg" alt="AX-SH's github stats " />
   <img height="180em" src="./profile/top-langs.svg" alt="AX-SH's github top languages" />
@@ -23,10 +28,9 @@
 
 # About Me
 
-- Expert in aesthetics, simplicity, and utility
-
 [//]: # (- Graphics designer with aesthetics in mind)
-- Creative Web Developer, who loves technology and is a lifelong learner
+- Expert in aesthetics, simplicity, and utility
+- Creative Full-Stack Software Engineer, who loves technology and is a lifelong learner
 - Interested in making things that people want, need, or require
 
 

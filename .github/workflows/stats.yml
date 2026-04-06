@@ -2,6 +2,8 @@ name: Update README cards
 
 # https://github.com/marketplace/actions/github-readme-stats-action
 # https://github.com/Othmane-ElAlami/GitHub-ReadMe-Stats?tab=readme-ov-file#all-demos
+# (https://github-readme-stats.vercel.app/api?username=ax-sh&show_icons=true&theme=merko&count_private=true)
+# (https://github-readme-stats.vercel.app/api/top-langs/?username=ax-sh&theme=merko&layout=compact&hide=html,mdx,jupyter%20notebook)
 on:
   push:
     branches:
