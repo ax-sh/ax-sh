@@ -7,8 +7,8 @@ name: Update README cards
 on:
   push:
     branches:
-      - main  # or whatever branch(es) you want
-      - master  # or whatever branch(es) you want
+      - main # or whatever branch(es) you want
+      - master # or whatever branch(es) you want
   schedule:
     - cron: "0 0 * * *" # Runs once daily at midnight
   workflow_dispatch:
@@ -39,13 +39,13 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-#      - name: Generate pin card
-#        uses: readme-tools/github-readme-stats-action@v1
-#        with:
-#          card: pin
-#          options: username=readme-tools&repo=github-readme-stats
-#          path: profile/pin-readme-tools-github-readme-stats.svg
-#          token: ${{ secrets.GITHUB_TOKEN }}
+      #      - name: Generate pin card
+      #        uses: readme-tools/github-readme-stats-action@v1
+      #        with:
+      #          card: pin
+      #          options: username=readme-tools&repo=github-readme-stats
+      #          path: profile/pin-readme-tools-github-readme-stats.svg
+      #          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
         run: |

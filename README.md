@@ -9,9 +9,6 @@
 
 ---
 
-
-
-
 <a href="https://github.com/ax-sh" style="text-decoration: none !important;">
   <img height="180em" src="./profile/stats.svg" alt="AX-SH's github stats " />
   <img height="180em" src="./profile/top-langs.svg" alt="AX-SH's github top languages" />
@@ -20,9 +17,8 @@
 # About Me
 
 [//]: # (- Graphics designer with aesthetics in mind)
+
 - Expert in aesthetics, simplicity, and utility
-- Creative Full-Stack Software Engineer, who loves technology and is a lifelong learner
+- Creative Full-Stack Software Engineer, who loves technology and is a lifelong
+  learner
 - Interested in making things that people want, need, or require
-
-
-
