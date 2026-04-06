@@ -1,19 +1,20 @@
 <!-- - Software Engineer by trade -->
 <!-- - Technoholic and a lifelong learner by nature -->
-<!-- - Originally a software engineer, who loves technology and is a lifelong learner-->
+<!-- - Originally a software engineer, who loves technology and a lifelong learner-->
 
 [//]: # (![AX-SH Stats]&#40;./profile/stats.svg&#41;)
 [//]: # (![Top Languages]&#40;./profile/top-langs.svg&#41;)
 
-<h1><img alt="hey" src="./profile/icons/animated-waving-hand-emoji.svg" width="48" height="48" />
+<h1>
+  <img alt="hey" src="./profile/icons/animated-waving-hand-emoji.svg" width="48" height="48" />
   Hey There
 </h1>
 
 ---
 
 <p>
-  <img height="180rem" src="./profile/stats.svg" alt="AX-SH's github stats " />
-  <img height="180rem" src="./profile/top-langs.svg" alt="AX-SH's github top languages" />
+  <img height="180rem" src="./profile/repo-info/stats.svg" alt="AX-SH's github stats " />
+  <img height="180rem" src="./profile/repo-info/top-langs.svg" alt="AX-SH's github top languages" />
 </p>
 
 # About Me
