@@ -75,7 +75,7 @@
 </p>
 
 ## Database and API
-
+<p>
 <img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
 <img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
 <img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" />
@@ -83,7 +83,7 @@
 <img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" />
 <img alt="" height="40" width="40" src="src/icons/drizzle-color.svg" />
 <img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-
+</p>
 ## Code quality
 
 <img alt="" height="40" width="40" src="src/icons/webstorm-original.svg"  />
