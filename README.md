@@ -5,8 +5,8 @@
 <!--
   ![AX-SH Stats](./profile/stats.svg)
   ![Top Languages](./profile/top-langs.svg)
-[//]: # (![AX-SH QR]&#40;./profile/icons/ax-sh_qr.png&#41;)
-->
+![AX-SH QR](./profile/icons/ax-sh_qr.png)
+-->
 
 <h1>
   <img align="center" alt="hey" src="./profile/icons/animated-waving-hand-emoji.svg" width="48" height="48" />
@@ -37,7 +37,7 @@
 - Responsive Design
 - SPA
 - HTML5/CSS3/JS/TS/SASS/JQuery
-- React/Nextjs <!--/Nestjs-->
+- React/Nextjs/Nestjs
 
 - React Query
 - Three.js
@@ -56,54 +56,54 @@
 [//]: # (<a href="https://www.figma.com/" target="_blank" rel="noreferrer">)
 
 <p>
-<img src="src/icons/typescript-original.svg"  width="40" height="40" />
-<img src="src/icons/tailwindcss-original-wordmark.svg"  width="40" height="40" />
-<img src="src/icons/react-original-wordmark.svg" width="40" height="40" />
-<img src="src/icons/nextjs-original.svg"  width="40" height="40"/>
-<img src="src/icons/vitest-original.svg"  width="40" height="40" />
-<img src="src/icons/storybook-original.svg"  width="40" height="40" />
-<img src="src/icons/drizzle-color.svg" width="40" height="40"/>
-<img src="src/icons/zod-color.svg" width="40" height="40"/>
-<img src="src/icons/zustand-original.svg" width="40" height="40"/>
-<img src="src/icons/d3js-original.svg" width="40" height="40"/>
-<img src="src/icons/figma-original.svg"  alt="Figma" width="40" height="40"/>
-<img alt="" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" />
-<img alt="" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-<img alt="" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" />
-<img alt="" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-<img alt="" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg" />
-<img alt="" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
+<img src="src/icons/typescript-original.svg"  width="40" height="40" width="40" />
+<img src="src/icons/tailwindcss-original-wordmark.svg"  width="40" height="40" width="40" />
+<img src="src/icons/react-original-wordmark.svg" width="40" height="40" width="40" />
+<img src="src/icons/nextjs-original.svg"  width="40" height="40" width="40"/>
+<img src="src/icons/vitest-original.svg"  width="40" height="40" width="40" />
+<img src="src/icons/storybook-original.svg"  width="40" height="40" width="40" />
+<img src="src/icons/drizzle-color.svg" width="40" height="40" width="40"/>
+<img src="src/icons/zod-color.svg" width="40" height="40" width="40"/>
+<img src="src/icons/zustand-original.svg" width="40" height="40" width="40"/>
+<img src="src/icons/d3js-original.svg" width="40" height="40" width="40"/>
+<img src="src/icons/figma-original.svg"  alt="Figma" width="40" height="40" width="40"/>
+<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" />
+<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" />
+<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg" />
+<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
 
-<img alt="" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" />
-<img alt="" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/puppeteer/puppeteer-original.svg" />
-<img alt="" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" />
+<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/puppeteer/puppeteer-original.svg" />
+<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
 
 </p>
 
 ## Code quality
 
-<img alt="" height="40" src="src/icons/webstorm-original.svg"  />
-<img alt="" height="40" src="src/icons/jira-original-wordmark.svg"  />
-<img alt="" height="40" src="src/icons/codecov-plain.svg"  />
-<img alt="" height="40" src="src/icons/docker-original-wordmark.svg"  />
-<img alt="" height="40" src="src/icons/eslint-plain-wordmark.svg"  />
-<img alt="" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original-wordmark.svg" />
-<img alt="" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original-wordmark.svg" />
-<img alt="" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" />
+<img alt="" height="40" width="40" src="src/icons/webstorm-original.svg"  />
+<img alt="" height="40" width="40" src="src/icons/jira-original-wordmark.svg"  />
+<img alt="" height="40" width="40" src="src/icons/codecov-plain.svg"  />
+<img alt="" height="40" width="40" src="src/icons/docker-original-wordmark.svg"  />
+<img alt="" height="40" width="40" src="src/icons/eslint-plain-wordmark.svg"  />
+<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original-wordmark.svg" />
+<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original-wordmark.svg" />
+<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" />
 
 ## Ai Stack
 
-<img alt="" height="40" src="src/icons/python-original-wordmark.svg"  />
-<img alt="" height="40" src="src/icons/anaconda-original-wordmark.svg"   />
-<img alt="" height="40" src="src/icons/jupyter-original-wordmark.svg"    />
-<img alt="" height="40" src="src/icons/streamlit-original.svg" />
+<img alt="" height="40" width="40" src="src/icons/python-original-wordmark.svg"  />
+<img alt="" height="40" width="40" src="src/icons/anaconda-original-wordmark.svg"   />
+<img alt="" height="40" width="40" src="src/icons/jupyter-original-wordmark.svg"    />
+<img alt="" height="40" width="40" src="src/icons/streamlit-original.svg" />
 
-<img alt="" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" />
+<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" />
 
 ## Place where I host my Experiments
 
-[<img src="./src/icons/codesandbox.svg"  width="40" height="40"/>](https://codesandbox.io/u/ax-sh)
-[<img src="./src/icons/codepen.svg"  width="40" height="40" />](https://codepen.io/ax-sh/)
+[<img src="./src/icons/codesandbox.svg"  width="40" height="40" width="40"/>](https://codesandbox.io/u/ax-sh)
+[<img src="./src/icons/codepen.svg"  width="40" height="40" width="40" />](https://codepen.io/ax-sh/)
 
 ---
 
@@ -115,10 +115,7 @@
 
 <img height="180rem" src="src/icons/ax-sh_qr.png" alt="AX-SH's github stats " />
 
-
-
 ---
 
 [//]: # (| :---: | | <img align="center" src="./profile/icons/ax-sh_qr.png" width="24" />)
-
 [//]: # (Centered Text |)
