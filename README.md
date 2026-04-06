@@ -5,15 +5,13 @@
 <!--
   ![AX-SH Stats](./profile/stats.svg)
   ![Top Languages](./profile/top-langs.svg)
-![AX-SH QR](./profile/icons/ax-sh_qr.png)
+  ![AX-SH QR](./profile/icons/ax-sh_qr.png)
 -->
 
 <h1>
   <img align="center" alt="hey" src="./src/icons/animated-waving-hand-emoji.svg" width="48" height="48" />
   Hey There
 </h1>
-
----
 
 <p>
   <img height="180rem" src="./profile/stats.svg" alt="AX-SH's github stats " />
@@ -22,12 +20,15 @@
 
 # About Me
 
-[//]: # (- Graphics designer with aesthetics in mind)
-
 - Expert in aesthetics, simplicity, and utility
 - Creative Full-Stack Software Engineer, who loves technology and is a lifelong
   learner
 - Interested in making things that people want, need, or require
+
+## Place where I host my Experiments
+
+[<img alt="codesandbox" style="padding:2px;background: white" src="./src/icons/codesandbox.svg" height="40" width="40"/>](https://codesandbox.io/u/ax-sh)
+[<img alt="codepen" style="padding:2px;background: white" src="./src/icons/codepen.svg" height="40" width="40" />](https://codepen.io/ax-sh/)
 
 ---
 
@@ -53,8 +54,6 @@
 
 ### Main Stack:
 
-[//]: # (<a href="https://www.figma.com/" target="_blank" rel="noreferrer">)
-
 <p>
 <img alt="typescript"  src="src/icons/typescript-original.svg"    height="40" width="40" />
 <img alt="tailwind.css"  src="src/icons/tailwindcss-original-wordmark.svg"    height="40" width="40" />
@@ -68,9 +67,9 @@
 <img alt="d3.js"  src="src/icons/d3js-original.svg"   height="40" width="40"/>
 <img alt="Figma"  src="src/icons/figma-original.svg"   height="40" width="40"/>
 
-<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg" />
-<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
-<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/puppeteer/puppeteer-original.svg" />
+<img alt="oauth2" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg" />
+<img alt="playwright" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
+<img alt="puppeteer" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/puppeteer/puppeteer-original.svg" />
 
 </p>
 
@@ -138,11 +137,6 @@
 </p>
 
 ---
-
-## Place where I host my Experiments
-
-[<img alt="codesandbox" style="padding:2px;background: white" src="./src/icons/codesandbox.svg" height="40" width="40"/>](https://codesandbox.io/u/ax-sh)
-[<img alt="codepen" style="padding:2px;background: white" src="./src/icons/codepen.svg" height="40" width="40" />](https://codepen.io/ax-sh/)
 
 ### Front-End:
 
@@ -238,7 +232,6 @@
 [<img alt="Axmin Shrestha linkedin" style="padding:2px;background: white" src="./src/icons/linked-in-alt.svg" height="40" width="40" />](https://linkedin.com/in/axmin/)
 [<img alt="Axmin Shrestha Twitter" style="padding:2px;background: white" src="./src/icons/twitter.svg" height="40" width="40" />](https://twitter.com/ax___sh)
 [<img alt="Axmin Shrestha Uxcel" style="padding:2px;background: white" src="./src/icons/uxcel.png" height="40" width="40" />](https://app.uxcel.com/ux/axmin)
-
 
 <a href="" target="blank">
     <img align="center" src="" alt="Axmin Shrestha uxcel" height="40" width="40" />
