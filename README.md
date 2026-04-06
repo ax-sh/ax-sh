@@ -16,6 +16,12 @@
 - Creative Web Developer, who loves technology and is a lifelong learner
 - Interested in making things that people want, need, or require
 
-![Stats](./profile/stats.svg)
+![AX-SH Stats](./profile/stats.svg)
+
+---
+
 ![Top Languages](./profile/top-langs.svg)
+
+---
+
 ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
