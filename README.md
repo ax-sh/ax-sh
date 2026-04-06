@@ -7,10 +7,9 @@
 [//]: # (![AX-SH Stats]&#40;./profile/stats.svg&#41;)
 [//]: # (![Top Languages]&#40;./profile/top-langs.svg&#41;)
 
-<p align="center">
-  <img alt="hey" src="./profile/icons/animated-waving-hand-emoji.svg" width="80" height="40" />
+<h1><img alt="hey" src="./profile/icons/animated-waving-hand-emoji.svg" width="80" height="40" />
   Centered Text
-</p>
+</h1>
 
 ---
 
