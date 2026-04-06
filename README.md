@@ -1,40 +1,10 @@
-
-
-[//]: # (![Hey]&#40;./profile/icons/animated-waving-hand-emoji.svg&#41;)
-[//]: # (    <span style="font-size: 2.2em;">👋</span>)
-[//]: # ()
-[//]: # (  <h1>)
-
-[//]: # (    <span style="font-size: 2.2em;">👋</span>)
-
-[//]: # (    <span style="background: linear-gradient&#40;135deg, )
-
-[//]: # (#6366f1, )
-
-[//]: # (#a855f7, )
-
-[//]: # (#ec4899&#41;; -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin-left: 10px;">Hey There</span>)
-
-[//]: # (  </h1>)
-
-[//]: # ()
-[//]: # ()
-[//]: # (<h1 style="display: flex">)
-
-[//]: # (    <img alt="hey" height="180em"  src="./profile/icons/animated-waving-hand-emoji.svg"/>)
-
-[//]: # (    <span style="font-size: 2.2em;"> </span>)
-
-[//]: # (    <span style="background: linear-gradient&#40;135deg, #6366f1, #a855f7, #ec4899&#41;; -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin-left: 10px;">Hey There</span>)
-
-[//]: # (</h1>)
+# 👋 Hey There
 
 <!-- - Software Engineer by trade -->
 <!-- - Technoholic and a lifelong learner by nature -->
 <!-- - Originally a software engineer, who loves technology and is a lifelong learner-->
 
 [//]: # (![AX-SH Stats]&#40;./profile/stats.svg&#41;)
-
 [//]: # (![Top Languages]&#40;./profile/top-langs.svg&#41;)
 
 ---
