@@ -245,6 +245,8 @@
 <img alt="buymeacoffee" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=axsh&button_colour=BD5FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" />
 </a>
 
+---
+
 <a href="https://www.buymeacoffee.com/axsh">
 <img height="180rem" src="src/icons/ax-sh_qr.png" alt="AX-SH's donate " />
 </a>
