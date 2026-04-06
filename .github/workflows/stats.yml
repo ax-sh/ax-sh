@@ -28,7 +28,7 @@ jobs:
         with:
           card: stats
           options: username=${{ github.repository_owner }}&theme=merko&show_icons=true
-          path: profile/repo-info/stats.svg
+          path: public/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
@@ -36,7 +36,7 @@ jobs:
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=pie&show_icons=true&theme=merko&hide=html,mdx,jupyter%20notebook
-          path: profile/repo-info/top-langs.svg
+          path: public/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       #      - name: Generate pin card
