@@ -7,6 +7,11 @@
 [//]: # (![AX-SH Stats]&#40;./profile/stats.svg&#41;)
 [//]: # (![Top Languages]&#40;./profile/top-langs.svg&#41;)
 
+<p align="center">
+  <img alt="hey" src="./profile/icons/animated-waving-hand-emoji.svg" width="24" height="24" />
+  Centered Text
+</p>
+
 ---
 
 <a href="https://github.com/ax-sh" style="text-decoration: none !important;">
