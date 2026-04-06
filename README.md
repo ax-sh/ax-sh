@@ -8,7 +8,7 @@
 [//]: # (![Top Languages]&#40;./profile/top-langs.svg&#41;)
 
 <p align="center">
-  <img alt="hey" src="./profile/icons/animated-waving-hand-emoji.svg" width="24" height="24" />
+  <img alt="hey" src="./profile/icons/animated-waving-hand-emoji.svg" width="80" height="40" />
   Centered Text
 </p>
 
