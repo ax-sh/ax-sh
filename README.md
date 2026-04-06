@@ -52,6 +52,23 @@
 - Automation scripts
 - Prompt Engineering
 
+> [!NOTE]
+>
+> ## I am available for hire. If you have a project in mind, please get in touch with me.
+
+### Connect with me:
+
+[<img alt="dev.to" style="padding:2px;background: white" src="./src/icons/codesandbox.svg" height="40" width="40"/>](https://dev.to/ax-sh)
+[<img alt="Axmin Shrestha linkedin" style="padding:2px;background: white" src="./src/icons/linked-in-alt.svg" height="40" width="40" />](https://linkedin.com/in/axmin/)
+[<img alt="Axmin Shrestha Twitter" style="padding:2px;background: white" src="./src/icons/twitter.svg" height="40" width="40" />](https://twitter.com/ax___sh)
+[<img alt="Axmin Shrestha Uxcel" style="padding:2px;background: white" src="./src/icons/uxcel.png" height="40" width="40" />](https://app.uxcel.com/ux/axmin)
+
+[//]: # (<a href="https://calendly.com/ax-sh" target="blank">)
+[//]: # (    <img align="center" src="src/icons/Calendly.svg" alt="Axmin Shrestha Calendly" height="40" width="40" />)
+[//]: # (  </a>)
+
+---
+
 ### Main Stack:
 
 <p>
@@ -221,32 +238,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/>
   </a>
 </p>
-
-> [!NOTE]
->
-> ## I am available for hire. If you have a project in mind, please get in touch with me.
-
-### Connect with me:
-
-[<img alt="dev.to" style="padding:2px;background: white" src="./src/icons/codesandbox.svg" height="40" width="40"/>](https://dev.to/ax-sh)
-[<img alt="Axmin Shrestha linkedin" style="padding:2px;background: white" src="./src/icons/linked-in-alt.svg" height="40" width="40" />](https://linkedin.com/in/axmin/)
-[<img alt="Axmin Shrestha Twitter" style="padding:2px;background: white" src="./src/icons/twitter.svg" height="40" width="40" />](https://twitter.com/ax___sh)
-[<img alt="Axmin Shrestha Uxcel" style="padding:2px;background: white" src="./src/icons/uxcel.png" height="40" width="40" />](https://app.uxcel.com/ux/axmin)
-
-<a href="" target="blank">
-    <img align="center" src="" alt="Axmin Shrestha uxcel" height="40" width="40" />
-  </a>
-
-[//]: # (<a href="https://calendly.com/ax-sh" target="blank">)
-[//]: # (    <img align="center" src="src/icons/Calendly.svg" alt="Axmin Shrestha Calendly" height="40" width="40" />)
-[//]: # (  </a>)
-
-<br/>
-<p style="padding-top:16px">
-<a href="[https://linkedin.com/in/axmin/](https://www.buymeacoffee.com/axsh)" target="blank"><img align="center" src="/icons/ax-sh_qr.png" alt="Axmin Shrestha linkedin" height="200" width="200" />
-</p>
-
----
 
 ## Donate
 
