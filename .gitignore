@@ -175,5 +175,4 @@ dist
 .DS_Store
 .turbo
 _site
-
-profile/
+profile/repo-info/
