@@ -73,20 +73,20 @@
 <p>
 <img alt="typescript"  src="src/icons/typescript-original.svg"    height="40" width="40" />
 <img alt="tailwind.css"  src="src/icons/tailwindcss-original-wordmark.svg"    height="40" width="40" />
+[//]: # (<img alt="tailwind.css"  src="src/icons/tailwindcss-original-wordmark.svg"    height="40" width="40" />)
+<img alt="tailwind.css"  src="src/icons/tailwindcss-icon.svg"    height="40" width="40" />
 <img alt="react.js"  src="src/icons/react-original-wordmark.svg"   height="40" width="40" />
 <img alt="next.js"  src="src/icons/nextjs-original.svg"   height="40" width="40"/>
 <img alt="vitest"  src="src/icons/vitest-original.svg"    height="40" width="40" />
 <img alt="storybook"  src="src/icons/storybook-original.svg"    height="40" width="40" />
 
+<img alt="playwright"  src="src/icons/playwright-original.svg"  height="40" width="40"  />
 <img alt="zod"  src="src/icons/zod-color.svg"   height="40" width="40"/>
 <img alt="zustand"  src="src/icons/zustand-original.svg"   height="40" width="40"/>
 <img alt="d3.js"  src="src/icons/d3js-original.svg"   height="40" width="40"/>
 <img alt="Figma"  src="src/icons/figma-original.svg"   height="40" width="40"/>
 
 [//]: # (<img alt="oauth2"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg"  height="40" width="40"  />)
-
-<img alt="playwright"  src="src/icons/playwright-original.svg"  height="40" width="40"  />
-
 [//]: # (<img alt="puppeteer" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/puppeteer/puppeteer-original.svg" />)
 
 </p>
