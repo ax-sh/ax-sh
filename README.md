@@ -86,20 +86,23 @@
 
 [//]: # (<img alt="oauth2"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg"  height="40" width="40"  />)
 [//]: # (<img alt="puppeteer" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/puppeteer/puppeteer-original.svg" />)
+[//]: # (<img alt="Mong" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />)
 
 </p>
 
 ## Database and API
 
 <p>
-<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" />
-<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" />
-<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" />
-<img alt="" height="40" width="40" src="src/icons/drizzle-color.svg" />
-<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+<img alt="drizzle orm" height="40" width="40" src="src/icons/drizzle-color.svg" />
+<img alt="prisma orm" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" />
+<img alt="Postgres SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+<img alt="Nest.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
 </p>
+
+[//]: # (graph database)
+[//]: # (<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" />)
+[//]: # (<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" />)
+
 
 ## Code quality
 
@@ -109,12 +112,11 @@
 <img alt="" height="40" width="40" src="src/icons/codecov-plain.svg"  />
 <img alt="" height="40" width="40" src="src/icons/docker-original-wordmark.svg"  />
 <img alt="" height="40" width="40" src="src/icons/eslint-plain-wordmark.svg"  />
+</p>
 
 [//]: # (<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original-wordmark.svg" />)
 [//]: # (<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original-wordmark.svg" />)
-[//]: # (<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" />)
 
-</p>
 
 ## Ai Stack
 
@@ -124,6 +126,7 @@
 <img alt="" height="40" width="40" src="src/icons/jupyter-original-wordmark.svg"    />
 <img alt="" height="40" width="40" src="src/icons/streamlit-original.svg" />
 <img alt="" height="40" width="40" src="src/icons/opencv-original-wordmark.svg" />
+<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" />
 </p>
 
 [//]: # (### Proficient In:)
@@ -159,52 +162,40 @@
 ### Front-End:
 
 <p>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
+<img
       alt=""
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
       width="40"
       height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
+/>
+<img
       alt=""
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
       width="40"
       height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
+/>
+<img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
       alt="css3"
       width="40"
       height="40"
-    />
-  </a>
+/>
 
-<a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg"
-      alt="redux"
-      width="40"
-      height="40"
-    />
-  </a>
+[//]: # (<a href="https://redux.js.org" target="_blank" rel="noreferrer">)
+
+[//]: # (    <img)
+
+[//]: # (      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg")
+
+[//]: # (      alt="redux")
+
+[//]: # (      width="40")
+
+[//]: # (      height="40")
+
+[//]: # (    />)
+
+[//]: # (  </a>)
 
 <img
 alt=""
