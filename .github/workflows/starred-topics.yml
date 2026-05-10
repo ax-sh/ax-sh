@@ -12,7 +12,6 @@ supports:
   - user
 scopes: []
 inputs:
-
   plugin_topics:
     description: |
       Enable topics plugin
