@@ -323,7 +323,5 @@
 <img height="180rem" src="src/icons/ax-sh_qr.png" alt="AX-SH's donate " />
 </a>
 
----
-
 [//]: # (| :---: | | <img align="center" src="./profile/icons/ax-sh_qr.png" width="24" />)
 [//]: # (Centered Text |)
