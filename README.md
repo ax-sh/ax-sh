@@ -126,7 +126,7 @@
 <img alt="" height="40" width="40" src="src/icons/jupyter-original-wordmark.svg"    />
 <img alt="" height="40" width="40" src="src/icons/streamlit-original.svg" />
 <img alt="" height="40" width="40" src="src/icons/opencv-original-wordmark.svg" />
-<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" />
+<img alt="" height="40" width="40" src="src/icons/pytorch-original-wordmark.svg" />
 </p>
 
 [//]: # (### Proficient In:)
@@ -172,11 +172,9 @@
 [//]: # (    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="vertical-align: middle"/>)
 [//]: # (  </a>)
 
-<img alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original-wordmark.svg" width="40" height="40" style="vertical-align: middle"/>
-<img alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" style="vertical-align: middle"/>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+<img alt="three.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original-wordmark.svg" width="40" height="40" style="vertical-align: middle"/>
+<img alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" style="vertical-align: middle"/>
 <img src="src/icons/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="vertical-align: middle"/>
-</a>
 </p>
 
 <!--
