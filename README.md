@@ -34,7 +34,7 @@
 
 ## Speciality
 
-- Interactive web design
+- Interactive web design/ui component
 - Responsive Design
 - SPA
 - HTML5/CSS3/JS/TS/SASS/JQuery
@@ -114,6 +114,7 @@
 <img alt="prisma orm" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" />
 <img alt="Postgres SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
 <img alt="Nest.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+<img alt="express" width="40"  height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
 </p>
 
 [//]: # (graph database)
@@ -138,12 +139,12 @@
 ## Ai Stack
 
 <p>
-<img alt="" height="40" width="40" src="src/icons/python-original-wordmark.svg"  />
-<img alt="" height="40" width="40" src="src/icons/anaconda-original-wordmark.svg"   />
-<img alt="" height="40" width="40" src="src/icons/jupyter-original-wordmark.svg"    />
-<img alt="" height="40" width="40" src="src/icons/streamlit-original.svg" />
-<img alt="" height="40" width="40" src="src/icons/opencv-original-wordmark.svg" />
-<img alt="" height="40" width="40" src="src/icons/pytorch-original-wordmark.svg" />
+<img alt="python" height="40" width="40" src="src/icons/python-original-wordmark.svg"  />
+<img alt="anaconda" height="40" width="40" src="src/icons/anaconda-original-wordmark.svg"   />
+<img alt="jupyter" height="40" width="40" src="src/icons/jupyter-original-wordmark.svg"    />
+<img alt="streamlit" height="40" width="40" src="src/icons/streamlit-original.svg" />
+<img alt="opencv" height="40" width="40" src="src/icons/opencv-original-wordmark.svg" />
+<img alt="pytorch" height="40" width="40" src="src/icons/pytorch-original-wordmark.svg" />
 </p>
 
 [//]: # (### Proficient In:)
