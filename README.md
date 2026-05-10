@@ -174,18 +174,22 @@
 
 <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg"  alt="redux" width="40" height="40"/>
-  </a>
-  <img alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original-wordmark.svg" width="40" height="40" />
-  <img alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  width="40" height="40"/>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+</a>
+
+<img alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original-wordmark.svg" width="40" height="40" />
+<img alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  width="40" height="40"/>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <img alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original-wordmark.svg" width="40" height="40" />
+</a>
+ 
     <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer" >
-    <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/>
+     <img alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original-wordmark.svg" width="40" height="40" />
+    </a>
+  
   </a>
 </p>
 
+<!--
 ### Stacks I have used:
 
 <p align="left">
@@ -235,21 +239,26 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </a>
 <a href="https://svelte.dev" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/>
   </a>
 </p>
 
+-->
+
 ## Donate
 
+<!--
 <a href="https://www.buymeacoffee.com/axsh">
 <img alt="buymeacoffee" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=axsh&button_colour=BD5FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" />
 </a>
+-->
 
 ---
 
 <a href="https://www.buymeacoffee.com/axsh">
 <img height="180rem" src="src/icons/ax-sh_qr.png" alt="AX-SH's donate " />
 </a>
+
 ---
 
 [//]: # (| :---: | | <img align="center" src="./profile/icons/ax-sh_qr.png" width="24" />)
