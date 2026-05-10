@@ -39,7 +39,6 @@
 - SPA
 - HTML5/CSS3/JS/TS/SASS/JQuery
 - React/Nextjs/Nestjs
-
 - React Query
 - Three.js
 - D3.js
