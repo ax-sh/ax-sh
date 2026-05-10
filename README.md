@@ -85,8 +85,9 @@
 
 [//]: # (<img alt="oauth2"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg"  height="40" width="40"  />)
 
-<img alt="playwright"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg"  height="40" width="40"  />
-<img alt="puppeteer" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/puppeteer/puppeteer-original.svg" />
+<img alt="playwright"  src="src/icons/playwright-original.svg"  height="40" width="40"  />
+
+[//]: # (<img alt="puppeteer" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/puppeteer/puppeteer-original.svg" />)
 
 </p>
 
@@ -128,48 +129,30 @@
 </p>
 
 [//]: # (### Proficient In:)
-
 [//]: # ()
 [//]: # (<p>)
-
 [//]: # ()
 [//]: # (<img alt="" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />)
-
 [//]: # (<img alt="" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"   />)
-
 [//]: # (<img alt="" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />)
-
 [//]: # ()
 [//]: # (<img alt="" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"   />)
-
 [//]: # (<img alt="" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg"   />)
-
 [//]: # ()
 [//]: # (<img alt="" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jamstack/jamstack-original-wordmark.svg"  />)
-
 [//]: # (<img alt="" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg"   />)
-
 [//]: # (<img alt="" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"   />)
-
 [//]: # (<img alt="" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg"   />)
-
 [//]: # (<img alt="" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain-wordmark.svg"  />)
-
 [//]: # ()
 [//]: # (<img alt="" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg"  />)
-
 [//]: # ()
 [//]: # (<img alt="" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original-wordmark.svg"  />)
-
 [//]: # ()
 [//]: # (<img alt="" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg"  />)
-
 [//]: # (<img alt="" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg"   />)
-
 [//]: # (<img alt="" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sanity/sanity-original.svg"  />)
-
 [//]: # (<img alt="" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg"  />)
-
 [//]: # ()
 [//]: # (</p>)
 
