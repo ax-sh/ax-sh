@@ -60,7 +60,6 @@
 
 [<img alt="dev.to" style="padding:2px;background: white" src="./src/icons/devto.svg" height="40" width="40"/>](https://dev.to/ax-sh)
 [<img alt="Axmin Shrestha linkedin" style="padding:2px;background: white" src="./src/icons/linked-in-alt.svg" height="40" width="40" />](https://linkedin.com/in/axmin/)
-[<img alt="Axmin Shrestha Twitter" style="padding:2px;background: white" src="./src/icons/twitter.svg" height="40" width="40" />](https://twitter.com/ax___sh)
 [<img alt="Axmin Shrestha Uxcel" style="padding:2px;background: white" src="./src/icons/uxcel.png" height="40" width="40" />](https://app.uxcel.com/ux/axmin)
 
 [//]: # (<a href="https://calendly.com/ax-sh" target="blank">)
@@ -84,8 +83,9 @@
 <img alt="d3.js"  src="src/icons/d3js-original.svg"   height="40" width="40"/>
 <img alt="Figma"  src="src/icons/figma-original.svg"   height="40" width="40"/>
 
-<img alt="oauth2" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg" />
-<img alt="playwright" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
+[//]: # (<img alt="oauth2"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg"  height="40" width="40"  />)
+
+<img alt="playwright"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg"  height="40" width="40"  />
 <img alt="puppeteer" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/puppeteer/puppeteer-original.svg" />
 
 </p>
@@ -114,6 +114,7 @@
 [//]: # (<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original-wordmark.svg" />)
 [//]: # (<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original-wordmark.svg" />)
 [//]: # (<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" />)
+
 </p>
 
 ## Ai Stack
