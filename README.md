@@ -90,6 +90,17 @@
 
 </p>
 
+
+### Front-End:
+
+<p>
+<img alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" style="vertical-align: middle"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="vertical-align: middle"/>
+<img alt="three.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original-wordmark.svg" width="40" height="40" style="vertical-align: middle"/>
+<img alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" style="vertical-align: middle"/>
+<img src="src/icons/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="vertical-align: middle"/>
+</p>
+
 ## Database and API
 
 <p>
@@ -159,23 +170,12 @@
 
 ---
 
-### Front-End:
-
-<p>
-<img alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" style="vertical-align: middle"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="vertical-align: middle"/>
-
 
 
 [//]: # (<img alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="vertical-align: middle"/>)
 [//]: # (<a href="https://redux.js.org" target="_blank" rel="noreferrer">)
 [//]: # (    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="vertical-align: middle"/>)
 [//]: # (  </a>)
-
-<img alt="three.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original-wordmark.svg" width="40" height="40" style="vertical-align: middle"/>
-<img alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" style="vertical-align: middle"/>
-<img src="src/icons/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="vertical-align: middle"/>
-</p>
 
 <!--
 ### Stacks I have used:
