@@ -72,8 +72,6 @@
 
 <p>
 <img alt="typescript"  src="src/icons/typescript-original.svg"    height="40" width="40" />
-<img alt="tailwind.css"  src="src/icons/tailwindcss-original-wordmark.svg"    height="40" width="40" />
-[//]: # (<img alt="tailwind.css"  src="src/icons/tailwindcss-original-wordmark.svg"    height="40" width="40" />)
 <img alt="tailwind.css"  src="src/icons/tailwindcss-icon.svg"    height="40" width="40" />
 <img alt="react.js"  src="src/icons/react-original-wordmark.svg"   height="40" width="40" />
 <img alt="next.js"  src="src/icons/nextjs-original.svg"   height="40" width="40"/>
