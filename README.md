@@ -90,15 +90,22 @@
 </p>
 
 
-### Front-End:
+[//]: # (### Front-End:)
 
-<p>
-<img alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" style="vertical-align: middle"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="vertical-align: middle"/>
-<img alt="three.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original-wordmark.svg" width="40" height="40" style="vertical-align: middle"/>
-<img alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" style="vertical-align: middle"/>
-<img src="src/icons/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="vertical-align: middle"/>
-</p>
+[//]: # ()
+[//]: # (<p>)
+
+[//]: # (<img alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" style="vertical-align: middle"/>)
+
+[//]: # (<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="vertical-align: middle"/>)
+
+[//]: # (<img alt="three.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original-wordmark.svg" width="40" height="40" style="vertical-align: middle"/>)
+
+[//]: # (<img alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" style="vertical-align: middle"/>)
+
+[//]: # (<img src="src/icons/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="vertical-align: middle"/>)
+
+[//]: # (</p>)
 
 ## Database and API
 
