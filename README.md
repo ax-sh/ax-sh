@@ -34,7 +34,7 @@
 
 ## Speciality
 
-- Interactive web design/ui component
+- Interactive web design/ui component development
 - Responsive Design
 - SPA
 - HTML5/CSS3/JS/TS/SASS/JQuery
