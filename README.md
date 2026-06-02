@@ -89,30 +89,23 @@
 
 </p>
 
-
 [//]: # (### Front-End:)
-
 [//]: # ()
 [//]: # (<p>)
-
 [//]: # (<img alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" style="vertical-align: middle"/>)
-
 [//]: # (<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="vertical-align: middle"/>)
-
 [//]: # (<img alt="three.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original-wordmark.svg" width="40" height="40" style="vertical-align: middle"/>)
-
 [//]: # (<img alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" style="vertical-align: middle"/>)
-
 [//]: # (<img src="src/icons/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="vertical-align: middle"/>)
-
 [//]: # (</p>)
 
 ## Database and API
 
 <p>
 <img alt="drizzle orm" height="40" width="40" src="src/icons/drizzle-color.svg" />
+<img alt="swagger(openapi)" height="40" width="40" src="src/icons/swagger-original.svg" />
 <img alt="prisma orm" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" />
-<img alt="Postgres SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+<img alt="Postgres SQL" height="40" width="40" src="src/icons/postgresql-original-wordmark.svg" />
 <img alt="Nest.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
 <img alt="express" width="40"  height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
 </p>
@@ -120,7 +113,6 @@
 [//]: # (graph database)
 [//]: # (<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" />)
 [//]: # (<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" />)
-
 
 ## Code quality
 
@@ -134,7 +126,6 @@
 
 [//]: # (<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original-wordmark.svg" />)
 [//]: # (<img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original-wordmark.svg" />)
-
 
 ## Ai Stack
 
@@ -176,8 +167,6 @@
 [//]: # (</p>)
 
 ---
-
-
 
 [//]: # (<img alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="vertical-align: middle"/>)
 [//]: # (<a href="https://redux.js.org" target="_blank" rel="noreferrer">)
@@ -323,8 +312,6 @@
 <img alt="buymeacoffee" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=axsh&button_colour=BD5FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" />
 </a>
 -->
-
----
 
 <a href="https://www.buymeacoffee.com/axsh">
 <img height="180rem" src="src/icons/ax-sh_qr.png" alt="AX-SH's donate " />
